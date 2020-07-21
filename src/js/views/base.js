@@ -10,6 +10,8 @@ export const elements = {
     likesList: document.querySelector('.likes__list')
 };
 
+
+
 export const elementStrings = {
     loader: 'loader'
 }
